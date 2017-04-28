@@ -1,5 +1,5 @@
 [
-  {"id": "1", "name": "1111", "image": "https://arasbm.github.io/bc-trees/icons/ponderosapine_sil.gif"},
-  {"id": "2", "name": "2222", "image": "https://arasbm.github.io/bc-trees/icons/ponderosapine_sil.gif"},
-  {"id": "3", "name": "3333", "image": "https://arasbm.github.io/bc-trees/icons/ponderosapine_sil.gif"}
+  {"id": "1", "name": "1111", "icon": "https://arasbm.github.io/bc-trees/icons/ponderosapine_sil.gif"},
+  {"id": "2", "name": "2222", "icon": "https://arasbm.github.io/bc-trees/icons/ponderosapine_sil.gif"},
+  {"id": "3", "name": "3333", "icon": "https://arasbm.github.io/bc-trees/icons/ponderosapine_sil.gif"}
 ]
