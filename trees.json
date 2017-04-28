@@ -1,0 +1,7 @@
+{
+trees: [
+{name: "1", image: "1.png"},
+{name: "2", image: "2.png"},
+{name: "3", image: "3.png"}
+]
+}
